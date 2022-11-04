@@ -1,0 +1,2 @@
+# detector
+check moves
